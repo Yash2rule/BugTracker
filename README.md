@@ -7,7 +7,7 @@ This application is built using ElectronJS framework.It allows users to track al
 #### Clone this repo
 
 ```
-git clone https://github.com/bradtraversy/simple-electron-react.git
+git clone https://github.com/Yash2rule/BugTracker.git
 ```
 
 #### Install dependencies
