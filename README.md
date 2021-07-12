@@ -1,6 +1,6 @@
-## Simple Electron React Boilerplate
+## BugTracker Desktop Application
 
-This is a simple boilerplate to get up and running with Electron and React. It is a customized version of [Alex Devero's](https://github.com/alexdevero/electron-react-webpack-boilerplate) repo and is used in my Electron course
+This application is built using ElectronJS framework.It allows users to track all the bugs encountered , share them with others to get them resolved.Suitable for teams working on projects in Companies.
 
 ### Install
 
