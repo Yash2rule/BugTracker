@@ -8,7 +8,18 @@ This application is built using ElectronJS framework.It allows users to track al
 
 ```
 git clone https://github.com/Yash2rule/BugTracker.git
+cd project
 ```
+
+### Env Variables
+Create a .env file in then root and add the following
+
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = your mongodb uri
+JWT_SECRET = abc123
+ADMIN_EMAIL = your email
+ADMIN_PASSWORD = your password
 
 #### Install dependencies
 
